@@ -1,0 +1,8 @@
+Odin Project No.1
+=================
+
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+
+----------
+
+For this mini-project, I will deconstruct an existing web page and rebuild it from scratch.
